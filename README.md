@@ -2,7 +2,8 @@
 <br />
 I hope use it and enjoy.
 <br />
-I use Stm32f407vg and Keil Compiler and Stm32CubeMX wizard.
+MCU used on tests was STM32L476RG.
+The toolchain used was provided by Atollic IDE and STM32CubeMX wizard.
  <br />
 Please Do This ...
 <br />
