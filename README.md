@@ -4,6 +4,7 @@ I hope use it and enjoy.
 <br />
 MCU used on tests was STM32L476RG.
 The toolchain used was provided by Atollic IDE and STM32CubeMX wizard.
+Tests was done with FreeRTOS and BareMetal.
  <br />
 Please Do This ...
 <br />
